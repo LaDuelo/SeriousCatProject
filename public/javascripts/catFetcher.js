@@ -1,5 +1,4 @@
-//Refresh: 27716321-ZsNxHJ-R5hNc3idwMJQkF1S54Qs
-//Access: LwFJXqjAdtL8WhMAgV74dl2KCLc
+
 
 module.exports = function () {
     this.fetchSubreddit = function (name) {
